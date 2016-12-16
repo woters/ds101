@@ -2,6 +2,7 @@
 
 Introduction to Data Science with Python
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/woters/ds101)
 
 ## Описание
 
