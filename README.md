@@ -26,36 +26,6 @@ Introduction to Data Science with Python
 
 
 
-##Outline
-
-- Introduction to Jupyter [15 min]
-  - What is Jupyter and why
-  - Using the notebook to create intactive analysis
-  - Sharing notebooks
-- Introduction to Pandas [45 min]
-  - Reading data
-  - Getting a feel of the data
-  - Basic statistics
-  - Dropping the cruft
-  - Quick and dirty visualization
-  - The power of the groupby
-  - Advance mappings for custom statistics
-- Break [5 min]
-- Introduction to SciKit Learn [45 min]
-  - What is a model
-  - How models fit to data
-  - Build a few basic models with data from pandas exercises
-  - Understanding the error in your model
-  - Steps to building better and better models
-- Break [5 min]
-- Hacking Challenges [15 min]
-  - Putting the above work together in teams with prepared challenges
-  - Advanced topics as requested
-    - Deep Learning
-    - Natural Language Processing
-  - Where to learn more
-  - Get started with Kaggle
-
 ## Инструкции по установке
 
 1. Скачайте соответствующий вашей системе файл установки (выбирайте версию Python 3.5) http://conda.pydata.org/miniconda.html.
